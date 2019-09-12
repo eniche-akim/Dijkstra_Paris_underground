@@ -1,4 +1,4 @@
-# Dijkstra_Paris_underground
+# Dijkstra_Paris_Underground
 The application employs Djikstra's algorithm to find the shortest path between metro stations implimented in c++ using unordered_map.
 
 ## Getting Started
