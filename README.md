@@ -61,7 +61,7 @@ example:
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/eniche-akim)
+* **Hakim HEniche** 
 
 ## Acknowledgments
 * Part of this job was supported by : Vincent Fraillon-maison  
