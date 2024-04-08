@@ -60,7 +60,7 @@ example:
 
 
 ## Authors
-* **Hakim Heniche**  - [Profile](https://github.com/eniche-akim)
+* **eniche**  - [Profile](https://github.com/eniche-akim)
 
 ## Acknowledgments
 * Part of this job was supported by : Vincent Fraillon-maison  
